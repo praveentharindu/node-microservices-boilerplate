@@ -1,0 +1,4 @@
+2021-08-14 09:54:41:5441: mongo connection stringmongodb://localhost:27017/student_widget
+2021-08-14 09:54:41:5441: ENVIRONMENT: dev
+2021-08-14 09:54:41:5441: Server listening on port: 5000
+2021-08-14 09:54:41:5441: Connected to mongo
