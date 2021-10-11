@@ -1,1 +1,1 @@
-# node boilerplate for microservice
+# NodeJS boilerplate for microservice
