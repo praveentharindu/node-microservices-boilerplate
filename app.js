@@ -20,13 +20,8 @@ const corsOptions = {};
 app.use(cors(corsOptions));
 
 // Normal express config defaults
-// app.use(morgan('dev'));
 app.use(bodyParser.urlencoded({ extended: false }));
 app.use(bodyParser.json());
-
-// morgan.token('id', function getId(req) {
-//   return req.id;
-// });
 
 // Log Env
 log.info(`ENVIRONMENT: ${CONFIG.app}`);
